@@ -15,3 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 Jul18 - CD
 Jul18 @ 10:30 PM - Changes
+Jul18 @ 23:00 - Change
