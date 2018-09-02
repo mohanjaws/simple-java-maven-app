@@ -9,7 +9,7 @@ pipeline
                 {
                     echo 'Building..'
                     git url: 'https://github.com/mohanjaws/simple-java-maven-app.git'
-                }
+                
         }
         stage('Test') 
         {
